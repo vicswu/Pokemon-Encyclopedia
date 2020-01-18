@@ -13,6 +13,9 @@ Enter "npm start" to run application.
 You will be brought to the following page:
 
 
+Retrieved information and pokemon sprites from RESTful API (PokeAPI).
+
+
 Used Javascript to implement a loading GIF due to the large number of pictures the application must import from PokeAPI.
 
 
