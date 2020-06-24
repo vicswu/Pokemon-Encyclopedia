@@ -8,7 +8,11 @@ Next, in terminal, go to Desktop and then pokedex.
 
 Enter "npm start" to run application.
 
-<img width="568" alt="Screen Shot 2020-01-17 at 7 16 50 PM" src="https://user-images.githubusercontent.com/59456972/72654529-f85fef80-395d-11ea-8bb3-0b3363be9bd0.png">
+```bash
+cd Desktop
+cd pokedex
+npm start 
+```
 
 You will be brought to the following page:
 
